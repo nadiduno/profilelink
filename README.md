@@ -11,8 +11,7 @@ Um repositorio para aprender HTML para principiantes, [o passo a passo no blog](
 ## Web
 <div>
   <img 
-    alt="Timer Pomodoro"
-    src="https://github.com/nadiduno/timerpomodoro/blob/main/.github/ImgApp.png" 
+    src="https://github.com/nadiduno/profilelink/blob/main/.github/ImgApp.png" 
     width="60%"
   >
   <br />

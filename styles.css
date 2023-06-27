@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+  }
+  html,
+  body {
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  body {
+    display: grid;
+    place-items: center;
+  }
+.foto{
+  width: 10rem;
+  border-radius: 100%;
+  margin: 2rem;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+  }

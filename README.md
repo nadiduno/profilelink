@@ -21,7 +21,7 @@ Um repositorio para aprender HTML para principiantes, [o passo a passo no blog](
 
 🚀[Passo a passo para aprender HTML](https://devrelnadiduno.blogspot.com/2023/06/fronteditor-para-codar.html) 
 <br />
-Usando [fronteditor](https://www.fronteditor.dev/) design [Mayk Brito](https://github.com/maykbrito)
+Usando [fronteditor](https://www.fronteditor.dev/)
 
 <br />
 <br />

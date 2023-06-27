@@ -8,7 +8,8 @@
 A repository to learn HTML for beginners, step by step on the blog
 
 Um repositorio para aprender HTML para principiantes, [o passo a passo no blog](https://devrelnadiduno.blogspot.com/2023/06/fronteditor-para-codar.html) 
-## Web
+
+
 <div>
   <img 
     src="https://github.com/nadiduno/profilelink/blob/main/.github/ImgApp.png" 
@@ -17,6 +18,11 @@ Um repositorio para aprender HTML para principiantes, [o passo a passo no blog](
   <br />
 </div>
 
-🚀 [fronteditor](https://www.fronteditor.dev/) design by [Mayk Brito](https://github.com/maykbrito)
 
+🚀[Passo a passo para aprender HTML](https://devrelnadiduno.blogspot.com/2023/06/fronteditor-para-codar.html) 
+<br />
+Usando [fronteditor](https://www.fronteditor.dev/) design [Mayk Brito](https://github.com/maykbrito)
+
+<br />
+<br />
 By DevRel <💜 /> [Nadi Duno](https://www.linkedin.com/in/nadiduno/) © 2023

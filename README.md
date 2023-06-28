@@ -25,4 +25,7 @@ Usando [fronteditor](https://www.fronteditor.dev/)
 
 <br />
 <br />
+
+Deploy da aplicação 💻 [Profile Link](https://profilelink-nadiduno.vercel.app/) 
+
 By DevRel <💜 /> [Nadi Duno](https://www.linkedin.com/in/nadiduno/) © 2023
